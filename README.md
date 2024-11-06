@@ -13,12 +13,12 @@ conda activate fingerprint_model
 
 
 
-After setting up the environment, open the Jupyter notebook:
+# After setting up the environment, open the Jupyter notebook:
 
 ```bash
 jupyter notebook
 
 
 
-Running the notebook will output a file named `results.txt` in the project directory. This file includes the test set RMSE, the Conda environment name, and the hyperparameters used for training.
+# Running the notebook will output a file named `results.txt` in the project directory. This file includes the test set RMSE, the Conda environment name, and the hyperparameters used for training.
 
